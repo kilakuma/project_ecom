@@ -13,3 +13,16 @@ bootstrap/cache/
 
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 .rocketeer/
+
+# homestead
+/vendor
+/.vagrant
+phpunit.xml
+/Homestead.yaml
+/Homestead.json
+/after.sh
+/aliases
+
+# ide ignore 
+.idea
+.DS_Store
